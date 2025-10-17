@@ -13,3 +13,4 @@ If you are developing a production application, we recommend using TypeScript wi
 this is a basic clone of gta vi website just to polish my gsap skills
 and emotional design
 now this pull is from mac
+anothr change 
